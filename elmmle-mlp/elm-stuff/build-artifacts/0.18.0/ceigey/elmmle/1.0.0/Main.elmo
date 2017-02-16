@@ -1,0 +1,4 @@
+var _ceigey$elmmle$Main$Neuron = F2(
+	function (a, b) {
+		return {weights: a, inputs: b};
+	});
